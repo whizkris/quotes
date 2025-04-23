@@ -1,0 +1,18 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question_id": "q001",
+      "type": "multiple",
+      "date": "2025-04-23",
+      "category": "Politics",
+      "question": "Who is the President of the European Commission?",
+      "correct_answer": "Ursula von der Leyen",
+      "incorrect_answers": [
+        "Charles Michel",
+        "Roberta Metsola",
+        "Christine Lagarde"
+      ]
+    }
+  ]
+}
