@@ -1,10 +1,11 @@
 - question_id: q001
-  date: 2025-04-23
+  date: 2025-04-24
   type: multiple
-  category: Politics
-  question: "Who is the President of the European Commission?"
-  correct_answer: "Ursula von der Leyen"
+  category: Artificial Intelligence
+  question: "Who is considered the 'father of artificial intelligence'?"
+  correct_answer: "John McCarthy"
   incorrect_answers:
-    - "Charles Michel"
-    - "Roberta Metsola"
-    - "Christine Lagarde"
+    - "Alan Turing"
+    - "Geoffrey Hinton"
+    - "Marvin Minsky"
+  explanation: "John McCarthy coined the term 'artificial intelligence' in 1956 and organized the Dartmouth Conference, which is considered the founding event of AI as a field."
