@@ -1,3 +1,14 @@
+- question_id: q007
+  date: 2025-04-29
+  type: multiple
+  category: Current Affairs
+  question: "Which terrorist group was primarily blamed for the Pahalgam attack targeting Amarnath Yatra pilgrims?"
+  correct_answer: "Lashkar-e-Taiba (LeT)"
+  incorrect_answers:
+    - "Jaish-e-Mohammed (JeM)"
+    - "Hizbul Mujahideen"
+    - "Al-Badr"
+  explanation: "The Pahalgam attack on Amarnath Yatra pilgrims was primarily attributed to the Pakistan-based terrorist organization Lashkar-e-Taiba (LeT), known for orchestrating attacks against civilians and security forces in Jammu and Kashmir."
 - question_id: q004
   date: 2025-04-28
   type: multiple
