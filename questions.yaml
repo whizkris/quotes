@@ -1,3 +1,14 @@
+- question_id: q003
+  date: 2025-04-27
+  type: multiple
+  category: Governance
+  question: "Which of the following statements best describes the concept of 'Minimum Government, Maximum Governance' as promoted by the Government of India?"
+  correct_answer: "It refers to a governance model that emphasizes efficiency, transparency, and citizen-centric services with reduced bureaucratic intervention."
+  incorrect_answers:
+    - "It advocates for the complete privatization of all government services."
+    - "It focuses solely on reducing the number of government employees."
+    - "It means minimal involvement of the government in foreign affairs."
+  explanation: "'Minimum Government, Maximum Governance' is a policy approach aiming to streamline government functioning, reduce red tape, and enhance service delivery using technology and reforms."
 - question_id: q002
   date: 2025-04-26
   type: multiple
