@@ -1,3 +1,14 @@
+- question_id: q004
+  date: 2025-04-28
+  type: multiple
+  category: Science & Technology
+  question: "What is the Gaganyaan mission by ISRO primarily aimed at achieving?"
+  correct_answer: "Sending Indian astronauts into space on an Indian spacecraft."
+  incorrect_answers:
+    - "Launching India's first satellite into deep space."
+    - "Establishing a permanent Indian space station."
+    - "Conducting an unmanned mission to Mars."
+  explanation: "Gaganyaan is India's first human spaceflight mission, aiming to send a crew of Indian astronauts (Gagannauts) into low Earth orbit using an indigenous spacecraft developed by ISRO."
 - question_id: q003
   date: 2025-04-27
   type: multiple
