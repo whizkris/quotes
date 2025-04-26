@@ -1,14 +1,3 @@
-- question_id: q001
-  date: 2025-04-24
-  type: multiple
-  category: Artificial Intelligence
-  question: "Who is considered the 'father of artificial intelligence'?"
-  correct_answer: "John McCarthy"
-  incorrect_answers:
-    - "Alan Turing"
-    - "Geoffrey Hinton"
-    - "Marvin Minsky"
-  explanation: "John McCarthy coined the term 'artificial intelligence' in 1956 and organized the Dartmouth Conference, which is considered the founding event of AI as a field."
 - question_id: q002
   date: 2025-04-26
   type: multiple
@@ -20,3 +9,14 @@
     - "Charles Michel"
     - "Roberta Metsola"
   explanation: "Ursula von der Leyen, a German politician, has been serving as the President of the European Commission since December 1, 2019. She is the first woman to hold this office."
+- question_id: q001
+  date: 2025-04-24
+  type: multiple
+  category: Artificial Intelligence
+  question: "Who is considered the 'father of artificial intelligence'?"
+  correct_answer: "John McCarthy"
+  incorrect_answers:
+    - "Alan Turing"
+    - "Geoffrey Hinton"
+    - "Marvin Minsky"
+  explanation: "John McCarthy coined the term 'artificial intelligence' in 1956 and organized the Dartmouth Conference, which is considered the founding event of AI as a field."
