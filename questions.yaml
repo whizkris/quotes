@@ -1,3 +1,14 @@
+- question_id: q008
+  date: 2025-04-30
+  type: multiple
+  category: Science & Technology
+  question: "In classical mechanics, the 'Brachistochrone curve' refers to which of the following paths?"
+  correct_answer: "The curve of fastest descent under gravity between two points, which is a cycloid."
+  incorrect_answers:
+    - "The straight line connecting two points in space."
+    - "The parabolic trajectory of a projectile."
+    - "The shortest distance between two points on a curved surface."
+  explanation: "The Brachistochrone curve is a cycloid — the curve traced by a point on the rim of a rolling circle — and it represents the path of quickest descent between two points under the influence of gravity, not the shortest distance."
 - question_id: q007
   date: 2025-04-29
   type: multiple
