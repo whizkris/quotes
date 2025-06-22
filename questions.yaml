@@ -1,3 +1,58 @@
+- question_id: q013
+  date: 2025-06-22
+  type: multiple
+  category: Science & Technology
+  question: "Which part of the human brain controls voluntary actions and thinking?"
+  correct_answer: "Cerebrum"
+  incorrect_answers:
+    - "Cerebellum"
+    - "Medulla"
+    - "Hypothalamus"
+  explanation: "The cerebrum is the largest part of the brain and is responsible for thinking, memory, and voluntary movement."
+- question_id: q010
+  date: 2025-06-22
+  type: multiple
+  category: Science & Technology
+  question: "Which process in plants is responsible for converting light energy into chemical energy?"
+  correct_answer: "Photosynthesis"
+  incorrect_answers:
+    - "Respiration"
+    - "Transpiration"
+    - "Osmosis"
+  explanation: "Photosynthesis uses sunlight, carbon dioxide, and water to produce glucose and oxygen — converting light into chemical energy."
+- question_id: q011
+  date: 2025-06-22
+  type: multiple
+  category: Science & Technology
+  question: "Which of these is a characteristic of a covalent bond?"
+  correct_answer: "Sharing of electrons between atoms"
+  incorrect_answers:
+    - "Transfer of electrons from one atom to another"
+    - "Presence of metal ions only"
+    - "Formation of crystal lattices only"
+  explanation: "In covalent bonding, atoms share electrons to achieve stability, commonly seen in nonmetals."
+- question_id: q012
+  date: 2025-06-22
+  type: multiple
+  category: Science & Technology
+  question: "In computer storage, which unit is the largest?"
+  correct_answer: "Terabyte (TB)"
+  incorrect_answers:
+    - "Megabyte (MB)"
+    - "Gigabyte (GB)"
+    - "Kilobyte (KB)"
+  explanation: "The hierarchy of data storage goes from KB < MB < GB < TB, where 1 TB = 1024 GB."
+- question_id: q009
+  date: 2025-06-22
+  type: multiple
+  category: Science & Technology
+  question: "Which of the following best describes Newton's First Law of Motion?"
+  correct_answer: "An object remains at rest or in uniform motion unless acted upon by a force."
+  incorrect_answers:
+    - "Force equals mass times acceleration."
+    - "Every action has an equal and opposite reaction."
+    - "Objects fall at the same rate regardless of mass."
+  explanation: "Newton's First Law states that unless a net external force acts, an object will not change its state of motion."
 - question_id: q008
   date: 2025-04-30
   type: multiple
