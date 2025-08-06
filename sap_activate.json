@@ -1,14 +1,24 @@
 [
   {
     "id": 1,
-    "question": "What is the capital of India?",
-    "options": ["Delhi", "Mumbai", "Kolkata"],
-    "answer": "Delhi"
+    "question": "Which are frontend technologies?",
+    "options": {
+      "a": "React",
+      "b": "Node.js",
+      "c": "Vue.js",
+      "d": "MongoDB"
+    },
+    "answer": ["a", "c"]
   },
   {
     "id": 2,
-    "question": "5 + 3 = ?",
-    "options": ["7", "8", "9"],
-    "answer": "8"
+    "question": "Which planet is known as the Red Planet?",
+    "options": {
+      "a": "Earth",
+      "b": "Mars",
+      "c": "Jupiter",
+      "d": "Venus"
+    },
+    "answer": ["b"]
   }
 ]
